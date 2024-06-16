@@ -26,11 +26,11 @@ DGHE works on the checkpoints of pretrained diffusion models.
 
 ## Pretrained Checkpoints
 
-| Path | Description                                                  |
-| ---- | :----------------------------------------------------------- |
-|      | DGHE trained on the [CelebA-HQ](https://arxiv.org/abs/1710.10196) dataset. |
-|      | DGHE trained on the [Church](https://www.yf.io/p/lsun) dataset. |
-|      | DGHE trained on the [AFHQ-Dog](https://arxiv.org/abs/1912.01865) dataset. |
+| Path                                                         | Description                                                  |
+| ------------------------------------------------------------ | :----------------------------------------------------------- |
+| [Human face](https://drive.google.com/drive/folders/1I2_zilf3mPq1vKMRRuOd5qA7iW_hTUGp?hl=zh_CN) | DGHE trained on the [CelebA-HQ](https://arxiv.org/abs/1710.10196) dataset. |
+| [Church](https://drive.google.com/drive/folders/1PDsLFANHH6DMRvv3SVYaVv9t8QvZrJci?hl=zh_CN) | DGHE trained on the [Church](https://www.yf.io/p/lsun) dataset. |
+| [Dog face](https://drive.google.com/drive/folders/1Ss7Uwsl5q_bpCiS2qxfZP4q5eDX0VFaR?hl=zh_CN) | DGHE trained on the [Afhq-Dog](https://arxiv.org/abs/1912.01865) dataset. |
 
 ## Training Model
 
